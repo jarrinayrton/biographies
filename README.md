@@ -22,6 +22,24 @@ Actualmente contamos con perfiles de:
 - Carl Sagan
 - Erwin Schrödinger
 
+## 📥 Descarga y Uso Local
+
+Si deseas tener una copia de esta galería en tu computadora o usarla sin conexión:
+
+### Opción 1: Clonar el repositorio (Recomendado para desarrolladores)
+Ejecuta el siguiente comando en tu terminal:
+\`\`\`bash
+git clone https://github.com/jarrinayrton/biographies.git
+\`\`\`
+
+### Opción 2: Descargar como ZIP (Rápido y sencillo)
+1. Haz clic en el botón verde **"Code"** en la parte superior de esta página.
+2. Selecciona **"Download ZIP"**.
+3. Extrae el archivo en tu computadora.
+
+### Cómo visualizarlo
+Una vez descargado, simplemente abre el archivo \`index.html\` en cualquier navegador web (Chrome, Firefox, Brave, etc.). ¡No requiere instalación de servidores externos!
+
 ## 🤝 Cómo colaborar
 ¡Buscamos expandir esta galería! Si quieres agregar a un científico o mejorar el diseño, sigue estos pasos:
 
